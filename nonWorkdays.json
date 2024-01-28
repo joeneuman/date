@@ -1,0 +1,2168 @@
+[
+  // January 2024
+  {
+    "NonWorkdays": "2024-01-01"
+  }, // New Year's Day
+  {
+    "NonWorkdays": "2024-01-06"
+  },
+  {
+    "NonWorkdays": "2024-01-07"
+  },
+  {
+    "NonWorkdays": "2024-01-13"
+  },
+  {
+    "NonWorkdays": "2024-01-14"
+  },
+  {
+    "NonWorkdays": "2024-01-15"
+  }, // Martin Luther King Jr. Day
+  {
+    "NonWorkdays": "2024-01-20"
+  },
+  {
+    "NonWorkdays": "2024-01-21"
+  },
+  {
+    "NonWorkdays": "2024-01-27"
+  },
+  {
+    "NonWorkdays": "2024-01-28"
+  },
+  // February 2024 (Leap Year)
+  {
+    "NonWorkdays": "2024-02-03"
+  },
+  {
+    "NonWorkdays": "2024-02-04"
+  },
+  {
+    "NonWorkdays": "2024-02-10"
+  },
+  {
+    "NonWorkdays": "2024-02-11"
+  },
+  {
+    "NonWorkdays": "2024-02-17"
+  },
+  {
+    "NonWorkdays": "2024-02-18"
+  }, // Presidents' Day
+  {
+    "NonWorkdays": "2024-02-24"
+  },
+  {
+    "NonWorkdays": "2024-02-25"
+  },
+  {
+    "NonWorkdays": "2024-02-29"
+  },
+  // March 2024
+  {
+    "NonWorkdays": "2024-03-02"
+  },
+  {
+    "NonWorkdays": "2024-03-03"
+  },
+  {
+    "NonWorkdays": "2024-03-09"
+  },
+  {
+    "NonWorkdays": "2024-03-10"
+  },
+  {
+    "NonWorkdays": "2024-03-16"
+  },
+  {
+    "NonWorkdays": "2024-03-17"
+  },
+  {
+    "NonWorkdays": "2024-03-23"
+  },
+  {
+    "NonWorkdays": "2024-03-24"
+  },
+  {
+    "NonWorkdays": "2024-03-30"
+  },
+  {
+    "NonWorkdays": "2024-03-31"
+  },
+  // April 2024
+  {
+    "NonWorkdays": "2024-04-06"
+  },
+  {
+    "NonWorkdays": "2024-04-07"
+  },
+  {
+    "NonWorkdays": "2024-04-13"
+  },
+  {
+    "NonWorkdays": "2024-04-14"
+  },
+  {
+    "NonWorkdays": "2024-04-20"
+  },
+  {
+    "NonWorkdays": "2024-04-21"
+  },
+  {
+    "NonWorkdays": "2024-04-27"
+  },
+  {
+    "NonWorkdays": "2024-04-28"
+  },
+  // May 2024
+  {
+    "NonWorkdays": "2024-05-04"
+  },
+  {
+    "NonWorkdays": "2024-05-05"
+  },
+  {
+    "NonWorkdays": "2024-05-11"
+  },
+  {
+    "NonWorkdays": "2024-05-12"
+  },
+  {
+    "NonWorkdays": "2024-05-18"
+  },
+  {
+    "NonWorkdays": "2024-05-19"
+  },
+  {
+    "NonWorkdays": "2024-05-25"
+  },
+  {
+    "NonWorkdays": "2024-05-26"
+  },
+  {
+    "NonWorkdays": "2024-05-27"
+  }, // Memorial Day
+  // June 2024
+  {
+    "NonWorkdays": "2024-06-01"
+  },
+  {
+    "NonWorkdays": "2024-06-02"
+  },
+  {
+    "NonWorkdays": "2024-06-08"
+  },
+  {
+    "NonWorkdays": "2024-06-09"
+  },
+  {
+    "NonWorkdays": "2024-06-15"
+  },
+  {
+    "NonWorkdays": "2024-06-16"
+  },
+  {
+    "NonWorkdays": "2024-06-19"
+  }, // Juneteenth
+  {
+    "NonWorkdays": "2024-06-22"
+  },
+  {
+    "NonWorkdays": "2024-06-23"
+  },
+  {
+    "NonWorkdays": "2024-06-29"
+  },
+  {
+    "NonWorkdays": "2024-06-30"
+  },
+  // July 2024
+  {
+    "NonWorkdays": "2024-07-04"
+  }, // Independence Day
+  {
+    "NonWorkdays": "2024-07-06"
+  },
+  {
+    "NonWorkdays": "2024-07-07"
+  },
+  {
+    "NonWorkdays": "2024-07-13"
+  },
+  {
+    "NonWorkdays": "2024-07-14"
+  },
+  {
+    "NonWorkdays": "2024-07-20"
+  },
+  {
+    "NonWorkdays": "2024-07-21"
+  },
+  {
+    "NonWorkdays": "2024-07-24"
+  }, // Pioneer Day
+  {
+    "NonWorkdays": "2024-07-27"
+  },
+  {
+    "NonWorkdays": "2024-07-28"
+  },
+  // August 2024
+  {
+    "NonWorkdays": "2024-08-03"
+  },
+  {
+    "NonWorkdays": "2024-08-04"
+  },
+  {
+    "NonWorkdays": "2024-08-10"
+  },
+  {
+    "NonWorkdays": "2024-08-11"
+  },
+  {
+    "NonWorkdays": "2024-08-17"
+  },
+  {
+    "NonWorkdays": "2024-08-18"
+  },
+  {
+    "NonWorkdays": "2024-08-24"
+  },
+  {
+    "NonWorkdays": "2024-08-25"
+  },
+  {
+    "NonWorkdays": "2024-08-31"
+  },
+  // September 2024
+  {
+    "NonWorkdays": "2024-09-01"
+  },
+  {
+    "NonWorkdays": "2024-09-02"
+  }, // Labor Day
+  {
+    "NonWorkdays": "2024-09-07"
+  },
+  {
+    "NonWorkdays": "2024-09-08"
+  },
+  {
+    "NonWorkdays": "2024-09-14"
+  },
+  {
+    "NonWorkdays": "2024-09-15"
+  },
+  {
+    "NonWorkdays": "2024-09-21"
+  },
+  {
+    "NonWorkdays": "2024-09-22"
+  },
+  {
+    "NonWorkdays": "2024-09-28"
+  },
+  {
+    "NonWorkdays": "2024-09-29"
+  },
+  // October 2024
+  {
+    "NonWorkdays": "2024-10-05"
+  },
+  {
+    "NonWorkdays": "2024-10-06"
+  },
+  {
+    "NonWorkdays": "2024-10-12"
+  },
+  {
+    "NonWorkdays": "2024-10-13"
+  },
+  {
+    "NonWorkdays": "2024-10-14"
+  }, // Columbus Day
+  {
+    "NonWorkdays": "2024-10-19"
+  },
+  {
+    "NonWorkdays": "2024-10-20"
+  },
+  {
+    "NonWorkdays": "2024-10-26"
+  },
+  {
+    "NonWorkdays": "2024-10-27"
+  },
+  // November 2024
+  {
+    "NonWorkdays": "2024-11-02"
+  },
+  {
+    "NonWorkdays": "2024-11-03"
+  },
+  {
+    "NonWorkdays": "2024-11-09"
+  },
+  {
+    "NonWorkdays": "2024-11-10"
+  },
+  {
+    "NonWorkdays": "2024-11-11"
+  }, // Veterans Day
+  {
+    "NonWorkdays": "2024-11-16"
+  },
+  {
+    "NonWorkdays": "2024-11-17"
+  },
+  {
+    "NonWorkdays": "2024-11-23"
+  },
+  {
+    "NonWorkdays": "2024-11-24"
+  },
+  {
+    "NonWorkdays": "2024-11-28"
+  }, // Thanksgiving Day
+  {
+    "NonWorkdays": "2024-11-30"
+  },
+  // December 2024
+  {
+    "NonWorkdays": "2024-12-01"
+  },
+  {
+    "NonWorkdays": "2024-12-07"
+  },
+  {
+    "NonWorkdays": "2024-12-08"
+  },
+  {
+    "NonWorkdays": "2024-12-14"
+  },
+  {
+    "NonWorkdays": "2024-12-15"
+  },
+  {
+    "NonWorkdays": "2024-12-21"
+  },
+  {
+    "NonWorkdays": "2024-12-22"
+  },
+  {
+    "NonWorkdays": "2024-12-25"
+  }, // Christmas Day
+  {
+    "NonWorkdays": "2024-12-28"
+  },
+  {
+    "NonWorkdays": "2024-12-29"
+  },
+  {
+    "NonWorkdays": "2024-12-31"
+  }, // New Year's Eve (widely observed)
+
+  
+  
+  // January 2025
+  {
+    "NonWorkdays": "2025-01-01"
+  }, // New Year's Day
+  {
+    "NonWorkdays": "2025-01-04"
+  },
+  {
+    "NonWorkdays": "2025-01-05"
+  },
+  {
+    "NonWorkdays": "2025-01-11"
+  },
+  {
+    "NonWorkdays": "2025-01-12"
+  },
+  {
+    "NonWorkdays": "2025-01-18"
+  },
+  {
+    "NonWorkdays": "2025-01-19"
+  },
+  {
+    "NonWorkdays": "2025-01-20"
+  }, // Martin Luther King Jr. Day
+  {
+    "NonWorkdays": "2025-01-25"
+  },
+  {
+    "NonWorkdays": "2025-01-26"
+  },
+  // February 2025
+  {
+    "NonWorkdays": "2025-02-01"
+  },
+  {
+    "NonWorkdays": "2025-02-02"
+  },
+  {
+    "NonWorkdays": "2025-02-08"
+  },
+  {
+    "NonWorkdays": "2025-02-09"
+  },
+  {
+    "NonWorkdays": "2025-02-15"
+  },
+  {
+    "NonWorkdays": "2025-02-16"
+  },
+  {
+    "NonWorkdays": "2025-02-17"
+  }, // Presidents' Day
+  {
+    "NonWorkdays": "2025-02-22"
+  },
+  {
+    "NonWorkdays": "2025-02-23"
+  },
+  // March 2025
+  {
+    "NonWorkdays": "2025-03-01"
+  },
+  {
+    "NonWorkdays": "2025-03-02"
+  },
+  {
+    "NonWorkdays": "2025-03-08"
+  },
+  {
+    "NonWorkdays": "2025-03-09"
+  },
+  {
+    "NonWorkdays": "2025-03-15"
+  },
+  {
+    "NonWorkdays": "2025-03-16"
+  },
+  {
+    "NonWorkdays": "2025-03-22"
+  },
+  {
+    "NonWorkdays": "2025-03-23"
+  },
+  {
+    "NonWorkdays": "2025-03-29"
+  },
+  {
+    "NonWorkdays": "2025-03-30"
+  },
+  // April 2025
+  {
+    "NonWorkdays": "2025-04-05"
+  },
+  {
+    "NonWorkdays": "2025-04-06"
+  },
+  {
+    "NonWorkdays": "2025-04-12"
+  },
+  {
+    "NonWorkdays": "2025-04-13"
+  },
+  {
+    "NonWorkdays": "2025-04-19"
+  },
+  {
+    "NonWorkdays": "2025-04-20"
+  },
+  {
+    "NonWorkdays": "2025-04-26"
+  },
+  {
+    "NonWorkdays": "2025-04-27"
+  },
+  // May 2025
+  {
+    "NonWorkdays": "2025-05-03"
+  },
+  {
+    "NonWorkdays": "2025-05-04"
+  },
+  {
+    "NonWorkdays": "2025-05-10"
+  },
+  {
+    "NonWorkdays": "2025-05-11"
+  },
+  {
+    "NonWorkdays": "2025-05-17"
+  },
+  {
+    "NonWorkdays": "2025-05-18"
+  },
+  {
+    "NonWorkdays": "2025-05-24"
+  },
+  {
+    "NonWorkdays": "2025-05-25"
+  },
+  {
+    "NonWorkdays": "2025-05-26"
+  }, // Memorial Day
+  {
+    "NonWorkdays": "2025-05-31"
+  },
+  // June 2025
+  {
+    "NonWorkdays": "2025-06-01"
+  },
+  {
+    "NonWorkdays": "2025-06-07"
+  },
+  {
+    "NonWorkdays": "2025-06-08"
+  },
+  {
+    "NonWorkdays": "2025-06-14"
+  },
+  {
+    "NonWorkdays": "2025-06-15"
+  },
+  {
+    "NonWorkdays": "2025-06-19"
+  }, // Juneteenth
+  {
+    "NonWorkdays": "2025-06-21"
+  },
+  {
+    "NonWorkdays": "2025-06-22"
+  },
+  {
+    "NonWorkdays": "2025-06-28"
+  },
+  {
+    "NonWorkdays": "2025-06-29"
+  },
+  // July 2025
+  {
+    "NonWorkdays": "2025-07-04"
+  }, // Independence Day
+  {
+    "NonWorkdays": "2025-07-05"
+  },
+  {
+    "NonWorkdays": "2025-07-06"
+  },
+  {
+    "NonWorkdays": "2025-07-12"
+  },
+  {
+    "NonWorkdays": "2025-07-13"
+  },
+  {
+    "NonWorkdays": "2025-07-19"
+  },
+  {
+    "NonWorkdays": "2025-07-20"
+  },
+  {
+    "NonWorkdays": "2025-07-24"
+  }, // Pioneer Day
+  {
+    "NonWorkdays": "2025-07-26"
+  },
+  {
+    "NonWorkdays": "2025-07-27"
+  },
+  // August 2025
+  {
+    "NonWorkdays": "2025-08-02"
+  },
+  {
+    "NonWorkdays": "2025-08-03"
+  },
+  {
+    "NonWorkdays": "2025-08-09"
+  },
+  {
+    "NonWorkdays": "2025-08-10"
+  },
+  {
+    "NonWorkdays": "2025-08-16"
+  },
+  {
+    "NonWorkdays": "2025-08-17"
+  },
+  {
+    "NonWorkdays": "2025-08-23"
+  },
+  {
+    "NonWorkdays": "2025-08-24"
+  },
+  {
+    "NonWorkdays": "2025-08-30"
+  },
+  {
+    "NonWorkdays": "2025-08-31"
+  },
+  // September 2025
+  {
+    "NonWorkdays": "2025-09-01"
+  }, // Labor Day
+  {
+    "NonWorkdays": "2025-09-06"
+  },
+  {
+    "NonWorkdays": "2025-09-07"
+  },
+  {
+    "NonWorkdays": "2025-09-13"
+  },
+  {
+    "NonWorkdays": "2025-09-14"
+  },
+  {
+    "NonWorkdays": "2025-09-20"
+  },
+  {
+    "NonWorkdays": "2025-09-21"
+  },
+  {
+    "NonWorkdays": "2025-09-27"
+  },
+  {
+    "NonWorkdays": "2025-09-28"
+  },
+  // October 2025
+  {
+    "NonWorkdays": "2025-10-04"
+  },
+  {
+    "NonWorkdays": "2025-10-05"
+  },
+  {
+    "NonWorkdays": "2025-10-11"
+  },
+  {
+    "NonWorkdays": "2025-10-12"
+  },
+  {
+    "NonWorkdays": "2025-10-13"
+  }, // Columbus Day
+  {
+    "NonWorkdays": "2025-10-18"
+  },
+  {
+    "NonWorkdays": "2025-10-19"
+  },
+  {
+    "NonWorkdays": "2025-10-25"
+  },
+  {
+    "NonWorkdays": "2025-10-26"
+  },
+  // November 2025
+  {
+    "NonWorkdays": "2025-11-01"
+  },
+  {
+    "NonWorkdays": "2025-11-02"
+  },
+  {
+    "NonWorkdays": "2025-11-08"
+  },
+  {
+    "NonWorkdays": "2025-11-09"
+  },
+  {
+    "NonWorkdays": "2025-11-11"
+  }, // Veterans Day
+  {
+    "NonWorkdays": "2025-11-15"
+  },
+  {
+    "NonWorkdays": "2025-11-16"
+  },
+  {
+    "NonWorkdays": "2025-11-22"
+  },
+  {
+    "NonWorkdays": "2025-11-23"
+  },
+  {
+    "NonWorkdays": "2025-11-27"
+  }, // Thanksgiving Day
+  {
+    "NonWorkdays": "2025-11-29"
+  },
+  {
+    "NonWorkdays": "2025-11-30"
+  },
+  // December 2025
+  {
+    "NonWorkdays": "2025-12-06"
+  },
+  {
+    "NonWorkdays": "2025-12-07"
+  },
+  {
+    "NonWorkdays": "2025-12-13"
+  },
+  {
+    "NonWorkdays": "2025-12-14"
+  },
+  {
+    "NonWorkdays": "2025-12-20"
+  },
+  {
+    "NonWorkdays": "2025-12-21"
+  },
+  {
+    "NonWorkdays": "2025-12-25"
+  }, // Christmas Day
+  {
+    "NonWorkdays": "2025-12-27"
+  },
+  {
+    "NonWorkdays": "2025-12-28"
+  },
+  {
+    "NonWorkdays": "2025-12-31"
+  }, // New Year's Eve (widely observed)
+
+    // January 2026
+  {
+    "NonWorkdays": "2026-01-01"
+  }, // New Year's Day
+  {
+    "NonWorkdays": "2026-01-03"
+  },
+  {
+    "NonWorkdays": "2026-01-04"
+  },
+  {
+    "NonWorkdays": "2026-01-10"
+  },
+  {
+    "NonWorkdays": "2026-01-11"
+  },
+  {
+    "NonWorkdays": "2026-01-17"
+  },
+  {
+    "NonWorkdays": "2026-01-18"
+  },
+  {
+    "NonWorkdays": "2026-01-19"
+  }, // Martin Luther King Jr. Day
+  {
+    "NonWorkdays": "2026-01-24"
+  },
+  {
+    "NonWorkdays": "2026-01-25"
+  },
+  {
+    "NonWorkdays": "2026-01-31"
+  },
+  // February 2026
+  {
+    "NonWorkdays": "2026-02-01"
+  },
+  {
+    "NonWorkdays": "2026-02-07"
+  },
+  {
+    "NonWorkdays": "2026-02-08"
+  },
+  {
+    "NonWorkdays": "2026-02-14"
+  },
+  {
+    "NonWorkdays": "2026-02-15"
+  },
+  {
+    "NonWorkdays": "2026-02-16"
+  }, // Presidents' Day
+  {
+    "NonWorkdays": "2026-02-21"
+  },
+  {
+    "NonWorkdays": "2026-02-22"
+  },
+  {
+    "NonWorkdays": "2026-02-28"
+  },
+  // March 2026
+  {
+    "NonWorkdays": "2026-03-01"
+  },
+  {
+    "NonWorkdays": "2026-03-07"
+  },
+  {
+    "NonWorkdays": "2026-03-08"
+  },
+  {
+    "NonWorkdays": "2026-03-14"
+  },
+  {
+    "NonWorkdays": "2026-03-15"
+  },
+  {
+    "NonWorkdays": "2026-03-21"
+  },
+  {
+    "NonWorkdays": "2026-03-22"
+  },
+  {
+    "NonWorkdays": "2026-03-28"
+  },
+  {
+    "NonWorkdays": "2026-03-29"
+  },
+  // April 2026
+  {
+    "NonWorkdays": "2026-04-04"
+  },
+  {
+    "NonWorkdays": "2026-04-05"
+  },
+  {
+    "NonWorkdays": "2026-04-11"
+  },
+  {
+    "NonWorkdays": "2026-04-12"
+  },
+  {
+    "NonWorkdays": "2026-04-18"
+  },
+  {
+    "NonWorkdays": "2026-04-19"
+  },
+  {
+    "NonWorkdays": "2026-04-25"
+  },
+  {
+    "NonWorkdays": "2026-04-26"
+  },
+  // May 2026
+  {
+    "NonWorkdays": "2026-05-02"
+  },
+  {
+    "NonWorkdays": "2026-05-03"
+  },
+  {
+    "NonWorkdays": "2026-05-09"
+  },
+  {
+    "NonWorkdays": "2026-05-10"
+  },
+  {
+    "NonWorkdays": "2026-05-16"
+  },
+  {
+    "NonWorkdays": "2026-05-17"
+  },
+  {
+    "NonWorkdays": "2026-05-23"
+  },
+  {
+    "NonWorkdays": "2026-05-24"
+  },
+  {
+    "NonWorkdays": "2026-05-25"
+  }, // Memorial Day
+  {
+    "NonWorkdays": "2026-05-30"
+  },
+  {
+    "NonWorkdays": "2026-05-31"
+  },
+  // June 2026
+  {
+    "NonWorkdays": "2026-06-06"
+  },
+  {
+    "NonWorkdays": "2026-06-07"
+  },
+  {
+    "NonWorkdays": "2026-06-13"
+  },
+  {
+    "NonWorkdays": "2026-06-14"
+  },
+  {
+    "NonWorkdays": "2026-06-19"
+  }, // Juneteenth
+  {
+    "NonWorkdays": "2026-06-20"
+  },
+  {
+    "NonWorkdays": "2026-06-21"
+  },
+  {
+    "NonWorkdays": "2026-06-27"
+  },
+  {
+    "NonWorkdays": "2026-06-28"
+  },
+  // July 2026
+  {
+    "NonWorkdays": "2026-07-04"
+  }, // Independence Day
+  {
+    "NonWorkdays": "2026-07-05"
+  },
+  {
+    "NonWorkdays": "2026-07-11"
+  },
+  {
+    "NonWorkdays": "2026-07-12"
+  },
+  {
+    "NonWorkdays": "2026-07-18"
+  },
+  {
+    "NonWorkdays": "2026-07-19"
+  },
+  {
+    "NonWorkdays": "2026-07-24"
+  }, // Pioneer Day
+  {
+    "NonWorkdays": "2026-07-25"
+  },
+  {
+    "NonWorkdays": "2026-07-26"
+  },
+  // August 2026
+  {
+    "NonWorkdays": "2026-08-01"
+  },
+  {
+    "NonWorkdays": "2026-08-02"
+  },
+  {
+    "NonWorkdays": "2026-08-08"
+  },
+  {
+    "NonWorkdays": "2026-08-09"
+  },
+  {
+    "NonWorkdays": "2026-08-15"
+  },
+  {
+    "NonWorkdays": "2026-08-16"
+  },
+  {
+    "NonWorkdays": "2026-08-22"
+  },
+  {
+    "NonWorkdays": "2026-08-23"
+  },
+  {
+    "NonWorkdays": "2026-08-29"
+  },
+  {
+    "NonWorkdays": "2026-08-30"
+  },
+  // September 2026
+  {
+    "NonWorkdays": "2026-09-05"
+  },
+  {
+    "NonWorkdays": "2026-09-06"
+  },
+  {
+    "NonWorkdays": "2026-09-07"
+  }, // Labor Day
+  {
+    "NonWorkdays": "2026-09-12"
+  },
+  {
+    "NonWorkdays": "2026-09-13"
+  },
+  {
+    "NonWorkdays": "2026-09-19"
+  },
+  {
+    "NonWorkdays": "2026-09-20"
+  },
+  {
+    "NonWorkdays": "2026-09-26"
+  },
+  {
+    "NonWorkdays": "2026-09-27"
+  },
+  // October 2026
+  {
+    "NonWorkdays": "2026-10-03"
+  },
+  {
+    "NonWorkdays": "2026-10-04"
+  },
+  {
+    "NonWorkdays": "2026-10-10"
+  },
+  {
+    "NonWorkdays": "2026-10-11"
+  },
+  {
+    "NonWorkdays": "2026-10-12"
+  }, // Columbus Day
+  {
+    "NonWorkdays": "2026-10-17"
+  },
+  {
+    "NonWorkdays": "2026-10-18"
+  },
+  {
+    "NonWorkdays": "2026-10-24"
+  },
+  {
+    "NonWorkdays": "2026-10-25"
+  },
+  {
+    "NonWorkdays": "2026-10-31"
+  },
+  // November 2026
+  {
+    "NonWorkdays": "2026-11-01"
+  },
+  {
+    "NonWorkdays": "2026-11-07"
+  },
+  {
+    "NonWorkdays": "2026-11-08"
+  },
+  {
+    "NonWorkdays": "2026-11-11"
+  }, // Veterans Day
+  {
+    "NonWorkdays": "2026-11-14"
+  },
+  {
+    "NonWorkdays": "2026-11-15"
+  },
+  {
+    "NonWorkdays": "2026-11-21"
+  },
+  {
+    "NonWorkdays": "2026-11-22"
+  },
+  {
+    "NonWorkdays": "2026-11-26"
+  }, // Thanksgiving Day
+  {
+    "NonWorkdays": "2026-11-28"
+  },
+  {
+    "NonWorkdays": "2026-11-29"
+  },
+  // December 2026
+  {
+    "NonWorkdays": "2026-12-05"
+  },
+  {
+    "NonWorkdays": "2026-12-06"
+  },
+  {
+    "NonWorkdays": "2026-12-12"
+  },
+  {
+    "NonWorkdays": "2026-12-13"
+  },
+  {
+    "NonWorkdays": "2026-12-19"
+  },
+  {
+    "NonWorkdays": "2026-12-20"
+  },
+  {
+    "NonWorkdays": "2026-12-25"
+  }, // Christmas Day
+  {
+    "NonWorkdays": "2026-12-26"
+  },
+  {
+    "NonWorkdays": "2026-12-27"
+  },
+  {
+    "NonWorkdays": "2026-12-31"
+  }, // New Year's Eve (widely observed)
+    // January 2027
+  {
+    "NonWorkdays": "2027-01-01"
+  }, // New Year's Day
+  {
+    "NonWorkdays": "2027-01-02"
+  },
+  {
+    "NonWorkdays": "2027-01-03"
+  },
+  {
+    "NonWorkdays": "2027-01-09"
+  },
+  {
+    "NonWorkdays": "2027-01-10"
+  },
+  {
+    "NonWorkdays": "2027-01-16"
+  },
+  {
+    "NonWorkdays": "2027-01-17"
+  },
+  {
+    "NonWorkdays": "2027-01-18"
+  }, // Martin Luther King Jr. Day
+  {
+    "NonWorkdays": "2027-01-23"
+  },
+  {
+    "NonWorkdays": "2027-01-24"
+  },
+  {
+    "NonWorkdays": "2027-01-30"
+  },
+  {
+    "NonWorkdays": "2027-01-31"
+  },
+  // February 2027
+  {
+    "NonWorkdays": "2027-02-06"
+  },
+  {
+    "NonWorkdays": "2027-02-07"
+  },
+  {
+    "NonWorkdays": "2027-02-13"
+  },
+  {
+    "NonWorkdays": "2027-02-14"
+  },
+  {
+    "NonWorkdays": "2027-02-15"
+  }, // Presidents' Day
+  {
+    "NonWorkdays": "2027-02-20"
+  },
+  {
+    "NonWorkdays": "2027-02-21"
+  },
+  {
+    "NonWorkdays": "2027-02-27"
+  },
+  {
+    "NonWorkdays": "2027-02-28"
+  },
+  // March 2027
+  {
+    "NonWorkdays": "2027-03-06"
+  },
+  {
+    "NonWorkdays": "2027-03-07"
+  },
+  {
+    "NonWorkdays": "2027-03-13"
+  },
+  {
+    "NonWorkdays": "2027-03-14"
+  },
+  {
+    "NonWorkdays": "2027-03-20"
+  },
+  {
+    "NonWorkdays": "2027-03-21"
+  },
+  {
+    "NonWorkdays": "2027-03-27"
+  },
+  {
+    "NonWorkdays": "2027-03-28"
+  },
+  // April 2027
+  {
+    "NonWorkdays": "2027-04-03"
+  },
+  {
+    "NonWorkdays": "2027-04-04"
+  },
+  {
+    "NonWorkdays": "2027-04-10"
+  },
+  {
+    "NonWorkdays": "2027-04-11"
+  },
+  {
+    "NonWorkdays": "2027-04-17"
+  },
+  {
+    "NonWorkdays": "2027-04-18"
+  },
+  {
+    "NonWorkdays": "2027-04-24"
+  },
+  {
+    "NonWorkdays": "2027-04-25"
+  },
+  // May 2027
+  {
+    "NonWorkdays": "2027-05-01"
+  },
+  {
+    "NonWorkdays": "2027-05-02"
+  },
+  {
+    "NonWorkdays": "2027-05-08"
+  },
+  {
+    "NonWorkdays": "2027-05-09"
+  },
+  {
+    "NonWorkdays": "2027-05-15"
+  },
+  {
+    "NonWorkdays": "2027-05-16"
+  },
+  {
+    "NonWorkdays": "2027-05-22"
+  },
+  {
+    "NonWorkdays": "2027-05-23"
+  },
+  {
+    "NonWorkdays": "2027-05-29"
+  },
+  {
+    "NonWorkdays": "2027-05-30"
+  },
+  {
+    "NonWorkdays": "2027-05-31"
+  }, // Memorial Day
+  // June 2027
+  {
+    "NonWorkdays": "2027-06-05"
+  },
+  {
+    "NonWorkdays": "2027-06-06"
+  },
+  {
+    "NonWorkdays": "2027-06-12"
+  },
+  {
+    "NonWorkdays": "2027-06-13"
+  },
+  {
+    "NonWorkdays": "2027-06-19"
+  }, // Juneteenth
+  {
+    "NonWorkdays": "2027-06-20"
+  },
+  {
+    "NonWorkdays": "2027-06-26"
+  },
+  {
+    "NonWorkdays": "2027-06-27"
+  },
+  // July 2027
+  {
+    "NonWorkdays": "2027-07-03"
+  },
+  {
+    "NonWorkdays": "2027-07-04"
+  },
+  {
+    "NonWorkdays": "2027-07-10"
+  },
+  {
+    "NonWorkdays": "2027-07-11"
+  },
+  {
+    "NonWorkdays": "2027-07-17"
+  },
+  {
+    "NonWorkdays": "2027-07-18"
+  },
+  {
+    "NonWorkdays": "2027-07-24"
+  }, // Pioneer Day
+  {
+    "NonWorkdays": "2027-07-25"
+  },
+  {
+    "NonWorkdays": "2027-07-31"
+  },
+  // August 2027
+  {
+    "NonWorkdays": "2027-08-01"
+  },
+  {
+    "NonWorkdays": "2027-08-07"
+  },
+  {
+    "NonWorkdays": "2027-08-08"
+  },
+  {
+    "NonWorkdays": "2027-08-14"
+  },
+  {
+    "NonWorkdays": "2027-08-15"
+  },
+  {
+    "NonWorkdays": "2027-08-21"
+  },
+  {
+    "NonWorkdays": "2027-08-22"
+  },
+  {
+    "NonWorkdays": "2027-08-28"
+  },
+  {
+    "NonWorkdays": "2027-08-29"
+  },
+  // September 2027
+  {
+    "NonWorkdays": "2027-09-04"
+  },
+  {
+    "NonWorkdays": "2027-09-05"
+  },
+  {
+    "NonWorkdays": "2027-09-06"
+  }, // Labor Day
+  {
+    "NonWorkdays": "2027-09-11"
+  },
+  {
+    "NonWorkdays": "2027-09-12"
+  },
+  {
+    "NonWorkdays": "2027-09-18"
+  },
+  {
+    "NonWorkdays": "2027-09-19"
+  },
+  {
+    "NonWorkdays": "2027-09-25"
+  },
+  {
+    "NonWorkdays": "2027-09-26"
+  },
+  // October 2027
+  {
+    "NonWorkdays": "2027-10-02"
+  },
+  {
+    "NonWorkdays": "2027-10-03"
+  },
+  {
+    "NonWorkdays": "2027-10-09"
+  },
+  {
+    "NonWorkdays": "2027-10-10"
+  },
+  {
+    "NonWorkdays": "2027-10-11"
+  }, // Columbus Day
+  {
+    "NonWorkdays": "2027-10-16"
+  },
+  {
+    "NonWorkdays": "2027-10-17"
+  },
+  {
+    "NonWorkdays": "2027-10-23"
+  },
+  {
+    "NonWorkdays": "2027-10-24"
+  },
+  {
+    "NonWorkdays": "2027-10-30"
+  },
+  {
+    "NonWorkdays": "2027-10-31"
+  },
+  // November 2027
+  {
+    "NonWorkdays": "2027-11-06"
+  },
+  {
+    "NonWorkdays": "2027-11-07"
+  },
+  {
+    "NonWorkdays": "2027-11-11"
+  }, // Veterans Day
+  {
+    "NonWorkdays": "2027-11-13"
+  },
+  {
+    "NonWorkdays": "2027-11-14"
+  },
+  {
+    "NonWorkdays": "2027-11-20"
+  },
+  {
+    "NonWorkdays": "2027-11-21"
+  },
+  {
+    "NonWorkdays": "2027-11-25"
+  }, // Thanksgiving Day
+  {
+    "NonWorkdays": "2027-11-27"
+  },
+  {
+    "NonWorkdays": "2027-11-28"
+  },
+  // December 2027
+  {
+    "NonWorkdays": "2027-12-04"
+  },
+  {
+    "NonWorkdays": "2027-12-05"
+  },
+  {
+    "NonWorkdays": "2027-12-11"
+  },
+  {
+    "NonWorkdays": "2027-12-12"
+  },
+  {
+    "NonWorkdays": "2027-12-18"
+  },
+  {
+    "NonWorkdays": "2027-12-19"
+  },
+  {
+    "NonWorkdays": "2027-12-25"
+  }, // Christmas Day
+  {
+    "NonWorkdays": "2027-12-26"
+  },
+  {
+    "NonWorkdays": "2027-12-31"
+  }, // New Year's Eve (widely observed)
+  
+    // January 2028
+  {
+    "NonWorkdays": "2028-01-01"
+  }, // New Year's Day
+  {
+    "NonWorkdays": "2028-01-02"
+  },
+  {
+    "NonWorkdays": "2028-01-07"
+  },
+  {
+    "NonWorkdays": "2028-01-08"
+  },
+  {
+    "NonWorkdays": "2028-01-14"
+  },
+  {
+    "NonWorkdays": "2028-01-15"
+  },
+  {
+    "NonWorkdays": "2028-01-16"
+  }, // Martin Luther King Jr. Day
+  {
+    "NonWorkdays": "2028-01-21"
+  },
+  {
+    "NonWorkdays": "2028-01-22"
+  },
+  {
+    "NonWorkdays": "2028-01-28"
+  },
+  {
+    "NonWorkdays": "2028-01-29"
+  },
+  // February 2028 (Leap Year)
+  {
+    "NonWorkdays": "2028-02-04"
+  },
+  {
+    "NonWorkdays": "2028-02-05"
+  },
+  {
+    "NonWorkdays": "2028-02-11"
+  },
+  {
+    "NonWorkdays": "2028-02-12"
+  },
+  {
+    "NonWorkdays": "2028-02-18"
+  },
+  {
+    "NonWorkdays": "2028-02-19"
+  },
+  {
+    "NonWorkdays": "2028-02-20"
+  }, // Presidents' Day
+  {
+    "NonWorkdays": "2028-02-25"
+  },
+  {
+    "NonWorkdays": "2028-02-26"
+  },
+  {
+    "NonWorkdays": "2028-02-29"
+  },
+  // March 2028
+  {
+    "NonWorkdays": "2028-03-04"
+  },
+  {
+    "NonWorkdays": "2028-03-05"
+  },
+  {
+    "NonWorkdays": "2028-03-11"
+  },
+  {
+    "NonWorkdays": "2028-03-12"
+  },
+  {
+    "NonWorkdays": "2028-03-18"
+  },
+  {
+    "NonWorkdays": "2028-03-19"
+  },
+  {
+    "NonWorkdays": "2028-03-25"
+  },
+  {
+    "NonWorkdays": "2028-03-26"
+  },
+  // April 2028
+  {
+    "NonWorkdays": "2028-04-01"
+  },
+  {
+    "NonWorkdays": "2028-04-02"
+  },
+  {
+    "NonWorkdays": "2028-04-08"
+  },
+  {
+    "NonWorkdays": "2028-04-09"
+  },
+  {
+    "NonWorkdays": "2028-04-15"
+  },
+  {
+    "NonWorkdays": "2028-04-16"
+  },
+  {
+    "NonWorkdays": "2028-04-22"
+  },
+  {
+    "NonWorkdays": "2028-04-23"
+  },
+  {
+    "NonWorkdays": "2028-04-29"
+  },
+  {
+    "NonWorkdays": "2028-04-30"
+  },
+  // May 2028
+  {
+    "NonWorkdays": "2028-05-06"
+  },
+  {
+    "NonWorkdays": "2028-05-07"
+  },
+  {
+    "NonWorkdays": "2028-05-13"
+  },
+  {
+    "NonWorkdays": "2028-05-14"
+  },
+  {
+    "NonWorkdays": "2028-05-20"
+  },
+  {
+    "NonWorkdays": "2028-05-21"
+  },
+  {
+    "NonWorkdays": "2028-05-27"
+  },
+  {
+    "NonWorkdays": "2028-05-28"
+  },
+  {
+    "NonWorkdays": "2028-05-29"
+  }, // Memorial Day
+  // June 2028
+  {
+    "NonWorkdays": "2028-06-03"
+  },
+  {
+    "NonWorkdays": "2028-06-04"
+  },
+  {
+    "NonWorkdays": "2028-06-10"
+  },
+  {
+    "NonWorkdays": "2028-06-11"
+  },
+  {
+    "NonWorkdays": "2028-06-17"
+  },
+  {
+    "NonWorkdays": "2028-06-18"
+  },
+  {
+    "NonWorkdays": "2028-06-19"
+  }, // Juneteenth
+  {
+    "NonWorkdays": "2028-06-24"
+  },
+  {
+    "NonWorkdays": "2028-06-25"
+  },
+  // July 2028
+  {
+    "NonWorkdays": "2028-07-01"
+  },
+  {
+    "NonWorkdays": "2028-07-02"
+  },
+  {
+    "NonWorkdays": "2028-07-04"
+  }, // Independence Day
+  {
+    "NonWorkdays": "2028-07-08"
+  },
+  {
+    "NonWorkdays": "2028-07-09"
+  },
+  {
+    "NonWorkdays": "2028-07-15"
+  },
+  {
+    "NonWorkdays": "2028-07-16"
+  },
+  {
+    "NonWorkdays": "2028-07-22"
+  },
+  {
+    "NonWorkdays": "2028-07-23"
+  },
+  {
+    "NonWorkdays": "2028-07-24"
+  }, // Pioneer Day
+  {
+    "NonWorkdays": "2028-07-29"
+  },
+  {
+    "NonWorkdays": "2028-07-30"
+  },
+  // August 2028
+  {
+    "NonWorkdays": "2028-08-05"
+  },
+  {
+    "NonWorkdays": "2028-08-06"
+  },
+  {
+    "NonWorkdays": "2028-08-12"
+  },
+  {
+    "NonWorkdays": "2028-08-13"
+  },
+  {
+    "NonWorkdays": "2028-08-19"
+  },
+  {
+    "NonWorkdays": "2028-08-20"
+  },
+  {
+    "NonWorkdays": "2028-08-26"
+  },
+  {
+    "NonWorkdays": "2028-08-27"
+  },
+  // September 2028
+  {
+    "NonWorkdays": "2028-09-02"
+  },
+  {
+    "NonWorkdays": "2028-09-03"
+  },
+  {
+    "NonWorkdays": "2028-09-04"
+  }, // Labor Day
+  {
+    "NonWorkdays": "2028-09-09"
+  },
+  {
+    "NonWorkdays": "2028-09-10"
+  },
+  {
+    "NonWorkdays": "2028-09-16"
+  },
+  {
+    "NonWorkdays": "2028-09-17"
+  },
+  {
+    "NonWorkdays": "2028-09-23"
+  },
+  {
+    "NonWorkdays": "2028-09-24"
+  },
+  {
+    "NonWorkdays": "2028-09-30"
+  },
+  // October 2028
+  {
+    "NonWorkdays": "2028-10-01"
+  },
+  {
+    "NonWorkdays": "2028-10-07"
+  },
+  {
+    "NonWorkdays": "2028-10-08"
+  },
+  {
+    "NonWorkdays": "2028-10-09"
+  }, // Columbus Day
+  {
+    "NonWorkdays": "2028-10-14"
+  },
+  {
+    "NonWorkdays": "2028-10-15"
+  },
+  {
+    "NonWorkdays": "2028-10-21"
+  },
+  {
+    "NonWorkdays": "2028-10-22"
+  },
+  {
+    "NonWorkdays": "2028-10-28"
+  },
+  {
+    "NonWorkdays": "2028-10-29"
+  },
+  // November 2028
+  {
+    "NonWorkdays": "2028-11-04"
+  },
+  {
+    "NonWorkdays": "2028-11-05"
+  },
+  {
+    "NonWorkdays": "2028-11-11"
+  }, // Veterans Day
+  {
+    "NonWorkdays": "2028-11-12"
+  },
+  {
+    "NonWorkdays": "2028-11-18"
+  },
+  {
+    "NonWorkdays": "2028-11-19"
+  },
+  {
+    "NonWorkdays": "2028-11-23"
+  }, // Thanksgiving Day
+  {
+    "NonWorkdays": "2028-11-25"
+  },
+  {
+    "NonWorkdays": "2028-11-26"
+  },
+  // December 2028
+  {
+    "NonWorkdays": "2028-12-02"
+  },
+  {
+    "NonWorkdays": "2028-12-03"
+  },
+  {
+    "NonWorkdays": "2028-12-09"
+  },
+  {
+    "NonWorkdays": "2028-12-10"
+  },
+  {
+    "NonWorkdays": "2028-12-16"
+  },
+  {
+    "NonWorkdays": "2028-12-17"
+  },
+  {
+    "NonWorkdays": "2028-12-23"
+  },
+  {
+    "NonWorkdays": "2028-12-24"
+  },
+  {
+    "NonWorkdays": "2028-12-25"
+  }, // Christmas Day
+  {
+    "NonWorkdays": "2028-12-30"
+  },
+  {
+    "NonWorkdays": "2028-12-31"
+  }, // New Year's Eve (widely observed)
+  
+    // January 2029
+  {
+    "NonWorkdays": "2029-01-01"
+  }, // New Year's Day
+  {
+    "NonWorkdays": "2029-01-06"
+  },
+  {
+    "NonWorkdays": "2029-01-07"
+  },
+  {
+    "NonWorkdays": "2029-01-13"
+  },
+  {
+    "NonWorkdays": "2029-01-14"
+  },
+  {
+    "NonWorkdays": "2029-01-15"
+  }, // Martin Luther King Jr. Day
+  {
+    "NonWorkdays": "2029-01-20"
+  },
+  {
+    "NonWorkdays": "2029-01-21"
+  },
+  {
+    "NonWorkdays": "2029-01-27"
+  },
+  {
+    "NonWorkdays": "2029-01-28"
+  },
+  // February 2029
+  {
+    "NonWorkdays": "2029-02-03"
+  },
+  {
+    "NonWorkdays": "2029-02-04"
+  },
+  {
+    "NonWorkdays": "2029-02-10"
+  },
+  {
+    "NonWorkdays": "2029-02-11"
+  },
+  {
+    "NonWorkdays": "2029-02-17"
+  },
+  {
+    "NonWorkdays": "2029-02-18"
+  },
+  {
+    "NonWorkdays": "2029-02-19"
+  }, // Presidents' Day
+  {
+    "NonWorkdays": "2029-02-24"
+  },
+  {
+    "NonWorkdays": "2029-02-25"
+  },
+  // March 2029
+  {
+    "NonWorkdays": "2029-03-03"
+  },
+  {
+    "NonWorkdays": "2029-03-04"
+  },
+  {
+    "NonWorkdays": "2029-03-10"
+  },
+  {
+    "NonWorkdays": "2029-03-11"
+  },
+  {
+    "NonWorkdays": "2029-03-17"
+  },
+  {
+    "NonWorkdays": "2029-03-18"
+  },
+  {
+    "NonWorkdays": "2029-03-24"
+  },
+  {
+    "NonWorkdays": "2029-03-25"
+  },
+  {
+    "NonWorkdays": "2029-03-31"
+  },
+  // April 2029
+  {
+    "NonWorkdays": "2029-04-01"
+  },
+  {
+    "NonWorkdays": "2029-04-07"
+  },
+  {
+    "NonWorkdays": "2029-04-08"
+  },
+  {
+    "NonWorkdays": "2029-04-14"
+  },
+  {
+    "NonWorkdays": "2029-04-15"
+  },
+  {
+    "NonWorkdays": "2029-04-21"
+  },
+  {
+    "NonWorkdays": "2029-04-22"
+  },
+  {
+    "NonWorkdays": "2029-04-28"
+  },
+  {
+    "NonWorkdays": "2029-04-29"
+  },
+  // May 2029
+  {
+    "NonWorkdays": "2029-05-05"
+  },
+  {
+    "NonWorkdays": "2029-05-06"
+  },
+  {
+    "NonWorkdays": "2029-05-12"
+  },
+  {
+    "NonWorkdays": "2029-05-13"
+  },
+  {
+    "NonWorkdays": "2029-05-19"
+  },
+  {
+    "NonWorkdays": "2029-05-20"
+  },
+  {
+    "NonWorkdays": "2029-05-26"
+  },
+  {
+    "NonWorkdays": "2029-05-27"
+  },
+  {
+    "NonWorkdays": "2029-05-28"
+  }, // Memorial Day
+  // June 2029
+  {
+    "NonWorkdays": "2029-06-02"
+  },
+  {
+    "NonWorkdays": "2029-06-03"
+  },
+  {
+    "NonWorkdays": "2029-06-09"
+  },
+  {
+    "NonWorkdays": "2029-06-10"
+  },
+  {
+    "NonWorkdays": "2029-06-16"
+  },
+  {
+    "NonWorkdays": "2029-06-17"
+  },
+  {
+    "NonWorkdays": "2029-06-19"
+  }, // Juneteenth
+  {
+    "NonWorkdays": "2029-06-23"
+  },
+  {
+    "NonWorkdays": "2029-06-24"
+  },
+  {
+    "NonWorkdays": "2029-06-30"
+  },
+  // July 2029
+  {
+    "NonWorkdays": "2029-07-01"
+  },
+  {
+    "NonWorkdays": "2029-07-04"
+  }, // Independence Day
+  {
+    "NonWorkdays": "2029-07-07"
+  },
+  {
+    "NonWorkdays": "2029-07-08"
+  },
+  {
+    "NonWorkdays": "2029-07-14"
+  },
+  {
+    "NonWorkdays": "2029-07-15"
+  },
+  {
+    "NonWorkdays": "2029-07-21"
+  },
+  {
+    "NonWorkdays": "2029-07-22"
+  },
+  {
+    "NonWorkdays": "2029-07-24"
+  }, // Pioneer Day
+  {
+    "NonWorkdays": "2029-07-28"
+  },
+  {
+    "NonWorkdays": "2029-07-29"
+  },
+  // August 2029
+  {
+    "NonWorkdays": "2029-08-04"
+  },
+  {
+    "NonWorkdays": "2029-08-05"
+  },
+  {
+    "NonWorkdays": "2029-08-11"
+  },
+  {
+    "NonWorkdays": "2029-08-12"
+  },
+  {
+    "NonWorkdays": "2029-08-18"
+  },
+  {
+    "NonWorkdays": "2029-08-19"
+  },
+  {
+    "NonWorkdays": "2029-08-25"
+  },
+  {
+    "NonWorkdays": "2029-08-26"
+  },
+  // September 2029
+  {
+    "NonWorkdays": "2029-09-01"
+  },
+  {
+    "NonWorkdays": "2029-09-02"
+  },
+  {
+    "NonWorkdays": "2029-09-03"
+  }, // Labor Day
+  {
+    "NonWorkdays": "2029-09-08"
+  },
+  {
+    "NonWorkdays": "2029-09-09"
+  },
+  {
+    "NonWorkdays": "2029-09-15"
+  },
+  {
+    "NonWorkdays": "2029-09-16"
+  },
+  {
+    "NonWorkdays": "2029-09-22"
+  },
+  {
+    "NonWorkdays": "2029-09-23"
+  },
+  {
+    "NonWorkdays": "2029-09-29"
+  },
+  {
+    "NonWorkdays": "2029-09-30"
+  },
+  // October 2029
+  {
+    "NonWorkdays": "2029-10-06"
+  },
+  {
+    "NonWorkdays": "2029-10-07"
+  },
+  {
+    "NonWorkdays": "2029-10-08"
+  }, // Columbus Day
+  {
+    "NonWorkdays": "2029-10-13"
+  },
+  {
+    "NonWorkdays": "2029-10-14"
+  },
+  {
+    "NonWorkdays": "2029-10-20"
+  },
+  {
+    "NonWorkdays": "2029-10-21"
+  },
+  {
+    "NonWorkdays": "2029-10-27"
+  },
+  {
+    "NonWorkdays": "2029-10-28"
+  },
+  // November 2029
+  {
+    "NonWorkdays": "2029-11-03"
+  },
+  {
+    "NonWorkdays": "2029-11-04"
+  },
+  {
+    "NonWorkdays": "2029-11-10"
+  },
+  {
+    "NonWorkdays": "2029-11-11"
+  }, // Veterans Day
+  {
+    "NonWorkdays": "2029-11-17"
+  },
+  {
+    "NonWorkdays": "2029-11-18"
+  },
+  {
+    "NonWorkdays": "2029-11-22"
+  }, // Thanksgiving Day
+  {
+    "NonWorkdays": "2029-11-24"
+  },
+  {
+    "NonWorkdays": "2029-11-25"
+  },
+  // December 2029
+  {
+    "NonWorkdays": "2029-12-01"
+  },
+  {
+    "NonWorkdays": "2029-12-02"
+  },
+  {
+    "NonWorkdays": "2029-12-08"
+  },
+  {
+    "NonWorkdays": "2029-12-09"
+  },
+  {
+    "NonWorkdays": "2029-12-15"
+  },
+  {
+    "NonWorkdays": "2029-12-16"
+  },
+  {
+    "NonWorkdays": "2029-12-22"
+  },
+  {
+    "NonWorkdays": "2029-12-23"
+  },
+  {
+    "NonWorkdays": "2029-12-25"
+  }, // Christmas Day
+  {
+    "NonWorkdays": "2029-12-29"
+  },
+  {
+    "NonWorkdays": "2029-12-30"
+  },
+  {
+    "NonWorkdays": "2029-12-31"
+  } // New Year's Eve (widely observed)
+]

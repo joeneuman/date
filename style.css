@@ -1,0 +1,12 @@
+/* style.css */
+.container {
+    width: 300px;
+    margin: auto;
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+}
+
+input, button {
+    margin-bottom: 10px;
+}

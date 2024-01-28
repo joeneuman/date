@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Workday Calculator</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <h2>Workday Calculator</h2>
+            <label for="fixedDate">Fixed Date:</label>
+            <input type="date" id="fixedDate" name="fixedDate"><br><br>
+    
+            <label for="numDays">Number of Days:</label>
+            <input type="number" id="numDays" name="numDays"><br><br>
+    
+            <input type="checkbox" id="skipNonWorkdays" name="skipNonWorkdays" onchange="toggleWorkdayCheckboxes()">
+            <label for="skipNonWorkdays">Workdays Only</label><br><br>
+
+            <input type="checkbox" id="excludeFirstWorkday" name="excludeFirstWorkday" disabled>
+            <label for="excludeFirstWorkday">Exclude First Workday</label><br><br>
+
+            <input type="checkbox" id="excludeLastWorkday" name="excludeLastWorkday" disabled>
+            <label for="excludeLastWorkday">Exclude Last Workday</label><br><br>
+    
+            <button onclick="calculateNewDate()">Calculate New Date</button><br><br>
+    
+            <label for="newDate">New Date:</label>
+            <input type="text" id="newDate" name="newDate" readonly><br><br>
+        </div>
+        
+        <script src="script.js"></script>
+    </body>
+</html>

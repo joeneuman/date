@@ -163,6 +163,7 @@ function calculateNewDate() {
 
 function addDays(startDate, days, skipNonWorkdays, excludeFirstWorkday, excludeLastWorkday) {
     let currentDate = new Date(startDate.getTime());
+    let daysSkipped = 0;
 
     // Add the specified number of days
     currentDate.setDate(currentDate.getDate() + days);
@@ -171,15 +172,13 @@ function addDays(startDate, days, skipNonWorkdays, excludeFirstWorkday, excludeL
     if (skipNonWorkdays) {
         while (isNonWorkday(currentDate)) {
             currentDate.setDate(currentDate.getDate() + 1);
+            daysSkipped++;
         }
     }
 
-    // If "Exclude First Workday" is checked, add an extra day after finding the first available workday
-    if (excludeFirstWorkday) {
+    // If "Exclude First Workday" is checked and any non-workdays were skipped, add an extra day
+    if (excludeFirstWorkday && daysSkipped > 0) {
         currentDate.setDate(currentDate.getDate() + 1);
-        while (isNonWorkday(currentDate)) {
-            currentDate.setDate(currentDate.getDate() + 1);
-        }
     }
 
     // If "Exclude Last Workday" is checked, subtract a day if the next day is a non-workday
@@ -198,8 +197,6 @@ function isNonWorkday(date) {
     let dateString = date.toISOString().split('T')[0];
     return nonWorkdays.some(nonWorkday => nonWorkday.NonWorkdays === dateString);
 }
-
-
 
 function toggleWorkdayCheckboxes() {
     var skipNonWorkdaysChecked = document.getElementById('skipNonWorkdays').checked;

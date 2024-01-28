@@ -1,3 +1,4 @@
 # date
 Workdays Only
-https://github.com/joeneuman/date.git
+
+https://joeneuman.github.io/date/
